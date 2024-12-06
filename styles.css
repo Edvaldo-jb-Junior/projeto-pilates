@@ -133,7 +133,7 @@ ul{
     }
     .div-beneficios{
         margin-left: 60px;
-        margin-top: 350px;
+        margin-top: 250px;
         font-size: 100px;
         width: 90vw;
        
@@ -147,16 +147,16 @@ ul{
 
     }
     .logo{
-        width: 95vw;
+        width: 90vw;
         height: 30vh;
         position: absolute;
-        margin-left: -773px;
+        margin-left: -768px;
         margin-top: -300px;
         opacity: 0.8;
     }
     .img-carousel{
-        width: 100px;
-        height: auto;
+        width: 90px;
+        height: 100px;
     
        
     }
@@ -197,6 +197,34 @@ ul{
 
     #titulo{
         font-size: 35px;
+    }
+}
+@media(max-width: 385px){
+    a{
+        font-size: 25px;
+    }
+    .beneficios{
+        margin-top: 240px;
+    }
+    .logo{
+        margin-top: -230px;
+    }
+    .img-carousel{
+        width: 170px;
+        height: 170px;
+    }
+    .div-beneficios{
+        margin-top: 730px;
+    }
+    .h1-beneficios{
+        font-size: 23px;
+    }
+    .div-pilate{
+        margin-top: -1468px;
+    }
+    .formacao{ 
+        margin-top: -1730px;
+        margin-left: -2px;
     }
 }
 
