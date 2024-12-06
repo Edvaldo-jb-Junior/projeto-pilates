@@ -6,6 +6,8 @@
     font-weight: 400;
 
 }
+
+@media (max-width: 2100px){
 main{
     width: 100vw;
     height: auto;
@@ -119,6 +121,7 @@ ul{
 }
 #titulo {
     font-size: 70px;
+}
 }
 @media (max-width: 1000px){
     .img-right{
