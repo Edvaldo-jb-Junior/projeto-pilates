@@ -126,76 +126,75 @@ ul{
 
 @media (max-width: 1000px){
     main{
-        width: 100vw;
-        height: auto;
-    }
-    
+        width: auto;
+    }    
     .img-right{
         display: none;
     }
     .div-beneficios{
         margin-left: 60px;
-        margin-top: 190px;
-        font-size: 30px;
+        margin-top: 350px;
+        font-size: 100px;
+        width: 90vw;
        
     }
     .beneficios{
-        width: 170px;
-        margin-top: 200px;
-        font-size: 12px;
+        width: 90vw;
+        margin-top: 300px;
+        font-size: 25px;
         margin-left: 5px;
         margin-bottom: 10px;
 
     }
     .logo{
-        width: 185px;
-        height: auto;
+        width: 95vw;
+        height: 30vh;
         position: absolute;
         margin-left: -773px;
-        margin-top: -200px;
+        margin-top: -300px;
+        opacity: 0.8;
     }
     .img-carousel{
         width: 100px;
-        height: 60px;
+        height: auto;
+    
+       
     }
     .h1{
         font-size: 1px;
     }
     .h1-beneficios{
-        font-size: 12px;
+        font-size: 25px;
         margin-left: -55px;
                     
     }
     ul{
-        font-size: 10px;
+        font-size: 25px;
         margin-left: -30px;
-        line-height: 20px;
+        line-height: 30px;
     }
     .div-pilate{
-        margin-top: -655px;
-        margin-left: -5px;
-        width: 190px;
-        font-size: 15px;
-        line-height: 20px;
+        margin-top: -1085px;
+        margin-left: -2px;
+        width: 95vw;
+        font-size: 30px;
+        line-height: 35px;
     }
     .formacao{
-        margin-top: -1130px;
+        margin-top: -1530px;
         margin-left: -5px;
-        width: 190px;
-        font-size: 15px;
+        width: 95vw;
+        font-size: 25px;
     }
     a:hover{
-        font-size: 20px;
+        font-size: 30px;
     }
     a{
-        font-size: 13px;
-        padding: 1px;
+        font-size: 28px;
+        padding: 5px;
         margin-left: 5px;
     }
-    .carousel slide{
-       display: flex;
-       justify-content: center;
-    }
+
     #titulo{
         font-size: 35px;
     }
