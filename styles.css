@@ -258,8 +258,11 @@ ul{
     a{
         padding: 2px;
     }
+    a:hover{
+        font-size: 25px;
+    }
     .logo{
-        width: 90vw;
+        width: 94vw;
         margin-top: -380px;
     }
     .beneficios{
@@ -271,6 +274,13 @@ ul{
     }
     .div-beneficios{
         width: 60vw;
+    }
+    .div-pilate{
+        margin-top: -1550px;
+    }
+    .formacao{
+        margin-top: -1450px;
+        width: 94vw;
     }
 }
 @media(max-width: 395px){
@@ -325,7 +335,7 @@ ul{
         
     }
 }
-@media(max-width: 360px){
+@media(max-width: 365px){
   
     main{
         width:95vw;
@@ -338,7 +348,7 @@ ul{
         font-size: 25px;
     }
     .logo{
-        width: 87vw;
+        width: 94vw;
         margin-left: -770px;;
     }
     .beneficios{
@@ -352,22 +362,23 @@ ul{
         margin-left: 20px;
     }
     .div-beneficios{
-        margin-top: 400px;
+        margin: 400px 0 0 80px;
+        
     }
     #carouselExampleControls{
         margin-left: -10px;
         width: 95vw;
     }
     .div-pilate{
-        padding: 0;
+        padding: 5px;
         font-size: 18px;
-        width: 90vw;
-        margin-top: -810px;
+        width: 94vw;
+        margin-top: -910px;
         margin-left: 10px;
     }
     .formacao{
         margin-top:-1020px;
-        width: 90vw;
+        width: 94vw;
         font-size: 22px;
        margin-left: 10px;
     }
@@ -384,7 +395,7 @@ ul{
         width: 140px;
     }
     .div-beneficios{
-        margin: 700px 0 0 70px;
+        margin: 700px 0 0 80px;
     }
     .div-pilate{
         margin-top: -1340px;
